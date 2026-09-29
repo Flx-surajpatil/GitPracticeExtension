@@ -5,7 +5,12 @@
     string hindiMarks = this.getProperty("mark_hindi","");
 
     int part = Int16.Parse(hindiMarks);
+<<<<<<< HEAD
+	// Suraj Patil
+ 
+=======
     // Pranav Bhavsar
+>>>>>>> d909106 (Modified By Pranav)
 
     string englishMarks = this.getProperty("mark_english","");
     int English = int.Parse(englishMarks);
